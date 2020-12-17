@@ -1,4 +1,8 @@
-## 🥰 Welcome to My Profile! 🎉
+## 🥰 Thanks for visiting my github profile!
+💕 I'm a junior dev who loves python! I spend most of my time in studying. 📚  
+💬 If you want to ask me about something, always feel free to contact me via my email 😉  
+
+
 ### My Links
 [🌏 Website](https://krrrr.dev/)  (https://krrrr.dev/)  
 📫 Email: <krrrr0(at)pm.me>
@@ -18,8 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-😍 Thanks for visiting my github profile! 💕 I'm a junior dev who loves python! I spend most of my time in studying. 📚  
-💬 If you want to ask me about something, always feel free to contact me via my email 😉  
+
   
   
 ### My Interests:
