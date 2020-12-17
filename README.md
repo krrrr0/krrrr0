@@ -1,6 +1,6 @@
 ## 🥰 Welcome to My Profile! 🎉
 ### My Links
-[🌏 Website](https://krrrr.dev/)  
+[🌏 Website](https://krrrr.dev/)  (https://krrrr.dev/
 📫 Email: <krrrr0(at)pm.me>
 <!--
 **krrrr0/krrrr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
