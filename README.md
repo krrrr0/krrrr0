@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-  
   
 ### My Interests:
 <img src="https://user-images.githubusercontent.com/72681176/95801710-31cf5b00-0d36-11eb-8141-7fb85e2c827f.jpg" width="300px" align="left"/>
@@ -35,6 +32,3 @@ Here are some ideas to get you started:
 - Genetically engineered catgirls   [██████████] (10/10)
 - Graphic Design                    [██████░░░░] (6/10)
 ```
-
-### 📊 My Github Stats
-![](https://github-readme-stats.vercel.app/api?username=krrrr0&layout=compact)
