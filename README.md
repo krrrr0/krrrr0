@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
   
 ### My Interests:
-<img src="https://user-images.githubusercontent.com/72681176/95801710-31cf5b00-0d36-11eb-8141-7fb85e2c827f.jpg" width="300px" align="left"/>
 
 ```
 - Server / API Programming          [███████░░░] (7/10)
@@ -32,3 +31,5 @@ Here are some ideas to get you started:
 - Genetically engineered catgirls   [██████████] (10/10)
 - Graphic Design                    [██████░░░░] (6/10)
 ```
+
+### Genetically Engineered Catgirls in 2021! `(ノ ゜Д ゜)ノ`
