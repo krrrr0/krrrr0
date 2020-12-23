@@ -1,5 +1,5 @@
 ## 🥰 Thanks for visiting my github profile!
-💕 I'm a junior dev who loves python! I spend most of my time in studying. 📚  
+💕 I'm a student/developer who loves python! I spend most of my time in studying. 📚  
 💬 If you want to ask me about something, or just want to say hi, always feel free to contact me via my email 😉  
   
 ### My Links
