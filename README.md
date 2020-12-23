@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🍰 I made a cute little Messenger bot that can bring your school's meal info in no time. Be sure to check it out!  
 - 🍭 Another cool project: A virtual friend that can talk and play some games with you. Used Microsoft's LUIS to analyze text.  
-- 🍨 Currently Working on: Multipurpose discord bot, made with `🐍python` and `💬Dialogflow`.  
+- 🍨 Currently Working on: Multipurpose discord bot, made with `💕Love`, `🐍python` and `💬Dialogflow`.  
 - 🥞 + I'm learning about `Vue.js` and other frontend-related stuff. I'm looking forward to being a full-stack dev.  
  
 <br>
