@@ -22,10 +22,10 @@ Here are some ideas to get you started:
   
 ### Cool Stuff
 
-- 🍰 I made a cool facebook messenger chatbot that can bring meal info of your school. Be sure to check it out!  
-- 🍭 Another cool project: Virtual friend that can talk and play some games with you.  
-- 🍨 I'm currently working on a multipurpose discord bot with `python` 🐍 and `Dialogflow`.  
-- 🥞 I'm also learning about `Vue.js` and stuff about frontend development. I'm looking forward to be a full-stack dev.  
+- 🍰 I made a cute little Messenger bot that can bring your school's meal info in no time. Be sure to check it out!  
+- 🍭 Another cool project: A virtual friend that can talk and play some games with you.  
+- 🍨 I'm currently working on a multipurpose discord bot with `🐍python` and `Dialogflow`.  
+- 🥞 I'm also learning about `Vue.js` and other frontend-related stuff. I'm looking forward to being a full-stack dev.  
 <br>
 
 #### Genetically Engineered Catgirls in 2021!
