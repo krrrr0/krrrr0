@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 
 ### Cool Stuff
 
-🥞 **Founder of Dazzle Inc. <a href="https://dazzle.works">[Website]</a> <a href="https://github.com/dazzleofficial">[Github]</a>**
+#### 🥞 Founder of Dazzle Inc. <a href="https://dazzle.works">[Website]</a> <a href="https://github.com/dazzleofficial">[Github]</a>
 <ul>
   <li>I mostly do backend stuff, but sometimes I also do frontend. Check out <a href="https://dazzle.works/">dazzle.works</a>.</li>
   <li>Working On: Developing backend engine for <a href="https://seven.wiki/">seven.wiki</a>. Dev-friendly tech wiki with nice apis.</li>
   <li>Future Project Plans: Discord/Messenger bot w/ advanced natural speech capabilities.  </li>
 </ul>  
 
-🍰 Personal Projects  
+#### 🍰 Personal Projects  
 <ul>
   <li>I made a cute little Messenger bot that can bring your school&#39;s meal info in no time. Be sure to check it out!  </li>
   <li>Another cool project: Virtual friend made with <code>LUIS</code>. She can talk and play some games with you!</li>
