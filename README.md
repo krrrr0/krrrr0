@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 #### 🥞 Founder of Dazzle Inc. <a href="https://dazzle.works">[Website]</a> <a href="https://github.com/dazzleofficial">[Github]</a>
 
-+ I mostly do backend stuff, but sometimes I also do frontend. Check out <a href="https://dazzle.works/">dazzle.works</a>.
++ I mostly do backend stuff, but sometimes I also do frontend. I can make nice websites with cool designs. Check out <a href="https://dazzle.works/">dazzle.works</a>.
 + **Working On:** Developing backend engine for <a href="https://seven.wiki/">seven.wiki</a>. Dev-friendly tech wiki with nice apis.
 + Future Project Plans: Discord/Messenger bot w/ advanced natural speech capabilities.
 
