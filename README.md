@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 
 #### 🍰 Personal Projects  
-+ I made a cute little Messenger bot that can bring your school&#39;s meal info instantly.
++ I made a cute little Messenger bot that can bring any school&#39;s meal info instantly.
 + Another cool project: Virtual friend made with <code>LUIS</code>. She can talk and play some games with you!
  
