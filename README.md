@@ -1,4 +1,4 @@
-## 🥰 Thanks for visiting my github profile!
+## Thanks for visiting my github profile!
 💕 I'm a student/developer who loves python! I spend most of my time in studying. 📚  
 💬 If you want to ask me about something, or just want to say hi, always feel free to reach me via my email 😉  
   
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Cool Stuff
 
-#### 🥞 Core Founding Member of Dazzle Inc. <a href="https://dazzle.works">[Website]</a> <a href="https://github.com/dazzleofficial">[Github]</a>
+#### 🥞 Co-founder of dazzle inc.(@dazzleofficial) <a href="https://dazzle.works">[Website]</a> <a href="https://github.com/dazzleofficial">[Github]</a>
 
 + I mostly do backend stuff, but sometimes I also do frontend. Check out <a href="https://dazzle.works/">dazzle.works</a>.
 + **Working On:** Developing backend engine for <a href="https://seven.wiki/">seven.wiki</a>. Dev-friendly tech wiki with nice apis.
@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 
 #### 🍰 Personal Projects  
-+ I made a cute little Messenger bot that can bring your school&#39;s meal info in no time. Be sure to check it out!
++ I made a cute little Messenger bot that can bring your school&#39;s meal info instantly.
 + Another cool project: Virtual friend made with <code>LUIS</code>. She can talk and play some games with you!
  
