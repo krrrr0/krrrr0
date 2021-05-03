@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Cool Stuff
 
-#### 🥞 Co-founder of <a href="https://github.com/dazzleofficial">@dazzleofficial</a> <a href="https://dazzle.works">[Website]</a> <a href="https://twitter.com/dazzleofficial">[Twitter]
+#### 🥞 Co-founder of <a href="https://github.com/dazzleofficial">@dazzleofficial</a> | <a href="https://dazzle.works">[Website]</a>
 
 + I mostly do backend stuff, but sometimes I also do frontend. Check out <a href="https://dazzle.works/">dazzle.works</a>.
 + **Working On:** Developing backend engine for <a href="https://seven.wiki/">seven.wiki</a>. Dev-friendly tech wiki with nice apis.
