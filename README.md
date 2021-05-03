@@ -1,6 +1,6 @@
 ## Thanks for visiting my github profile!
 💕 I'm a student/developer who loves python! I spend most of my time in studying. 📚  
-💬 If you want to ask me about something, or just want to say hi, always feel free to reach me via my email 😉  
+💬 If you want to ask me about something, or just want to say hi, always feel free to reach me via email 😉  
   
 ### My Links
 [🌏 Website](https://krrrr.dev/)  (https://krrrr.dev/)  
