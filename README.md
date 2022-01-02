@@ -5,11 +5,12 @@
 
 - 🎒 Student @ [Hana Academy Seoul](https://www.hana.hs.kr/main.do) (#12)
 - ✨ Co-Founder of ***dazzle.*** ➡️ [[Github]](https://github.com/dazzleofficial) | [[Website]](http://dazzle.works)
-###
-- 🔥 Python과 Go를 이용한 백엔드 개발, 그리고 그걸 클라우드에 배포해서 여러 서비스를 운영하고 있어요.
-- 🦄 작은 차이에 민감하고, 그런 차이가 큰 변화를 불러온다고 믿는 편이에요.
-- 🏄 Fast-Learner입니다. Fail-Fast, Learn-Faster 하면서 배우는 게 잘 맞는 타입이에요.
 - ⌨️ ⇥ over ⎵
+###
+- 🔥 Python과 Go를 이용한 백엔드 개발, 그리고 그걸 클라우드에 배포해서 여러 서비스를 운영하고 있습니다.
+- 💭 남들과 다른 접근으로 색다른 생각을 자주 하고, 기존의 무엇에 끊임없이 의문을 제기함으로써 영감을 얻습니다.
+- 🦄 작은 차이에 민감하고, 그런 차이가 큰 변화를 불러온다고 믿는 편입니다.
+- 🏄 Fast-Learner입니다. Fail-Fast, Learn-Faster 하면서 배우는 게 잘 맞는 타입입니다.
 ### 
 - ✅ 질문, 문의는 이메일이나 이슈, DM, 및 기타 적절한 방법으로 해 주시면 됩니다.
 
