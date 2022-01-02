@@ -16,7 +16,7 @@
 
 ## EN 
 **Thanks for visiting my github profile!**  
-💬 If you want to ask me about something, or just want to say hi, always feel free to reach me via email
+💬 If you want to ask me about something, or just want to say hi, always feel free to reach me via email.
   
 ### My Links
 [🌏 Website](https://krrrr.dev/)  (https://krrrr.dev/)  
