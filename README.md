@@ -1,6 +1,6 @@
 ## ko_KR
 
-만나서 반가워요 o/
+**만나서 반가워요 o/**
 ```
 - 🎒 하나고등학교 12기 재학중  
 - ✨ Co-Founder of http://dazzle.works  
