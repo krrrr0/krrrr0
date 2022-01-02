@@ -1,18 +1,17 @@
 ## KO
 
-**만나서 반가워요 o/**
-<br>
-<br>
-🎒 HAS 12  
-✨ Co-Founder of http://dazzle.works  
-  
-🔥 Python과 Go를 이용한 백엔드 개발, 그리고 클라우드 배포를 하고 있어요.  
-🥵 프런트엔드가 매운 1인  
-⌨️ ⇥ over ⎵  
-  
-✅ 질문, 문의는 이메일이나 이슈, DM, 및 기타 적절한 방법으로 해 주시면 됩니다.  
-  
-    
+#### 만나서 반가워요 o/
+
+- 🎒 HAS 12  
+- ✨ Co-Founder of http://dazzle.works  
+###
+- 🔥 Python과 Go를 이용한 백엔드 개발, 그리고 클라우드 배포를 하고 있어요.  
+- 🥵 프런트엔드가 매운 1인  
+- ⌨️ ⇥ over ⎵  
+### 
+- ✅ 질문, 문의는 이메일이나 이슈, DM, 및 기타 적절한 방법으로 해 주시면 됩니다.  
+### 진행중인 프로젝트
+
 
 ## EN 
 **Thanks for visiting my github profile!**  
