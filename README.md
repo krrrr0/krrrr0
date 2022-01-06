@@ -34,7 +34,7 @@
 | **PARTY** | The New Social: 한국형 카카오톡 대체 메신저 | 2022- | 🏗️ | 개인작 | Repo 비공개 <sub>(개발중)</sub> |
 |  | ***Work in Progress*** |   |  | |
 
-<sup>이 외에도 상당량의 Vaporware와 프로젝트들이 있으나, 대부분의 프로젝트는 사설 Git 서버에서 작업한 후에 Github로 옮겨오는 방식을 사용하고 있어 여기에서 보실 수는 없습니다.</sup>
+<sup>이 외에도 많은 Vaporware와 프로젝트들이 있습니다. 사설 Git 서버에서 작업한 후에 Github로 옮겨오는 방식을 사용하고 있어, 모든 프로젝트가 공개된 것은 아닙니다.</sup>
 
 **전체 포트폴리오는 [krrrr.dev](https://krrrr.dev/) 에서 둘러보실 수 있습니다.**
 
