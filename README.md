@@ -4,7 +4,7 @@
 ### 🙃 간단 자기소개
 
 - 🎒 Student @ [Hana Academy Seoul](https://www.hana.hs.kr/main.do) (#12)
-- ✨ Co-Founder of ***dazzle.*** ➡️ [[Github]](https://github.com/dazzleofficial) | [[Website]](https://dazzle.works)
+- ✨ Co-Founder of ***Dazzle.*** ➡️ [[Github]](https://github.com/dazzleofficial) | [[Website]](https://dazzle.works)
 - ⌨️ ⇥ over ⎵
 ####
 - 🔥 Python과 Go를 이용한 백엔드 개발, 그리고 그걸 클라우드에 배포해서 여러 서비스를 운영하고 있습니다.
@@ -25,7 +25,7 @@
 |:----------|:--------------|:-------------|:--------------|:------:|:------|
 | **급식봇5**  | NLP를 이용해 비정형 대화에서 급식을 가져오는 인공지능 페메 챗봇 | 2018- | ✅ | 개인작 | [[Repo]](https://github.com/dazzleofficial/mealworm5) [[Messenger]](https://m.me/mealworm05) |
 | **ASKY** | NLP를 이용한 인공지능 Companion<br>(HYU Gifted 수료작, 백엔드 개발.) | 2019 | ⏹️ | 팀플 w/ [@cliid](https://github.com/cliid), and 2 more | _TODO_ |
-| **세븐위키** | Developer-Friendly wiki service built w/ Modern Frameworks. | 2020- | 🏗️ | [***dazzle.***](https://github.com/dazzleofficial) | [[Website]](https://seven.wiki) <br>Repo 비공개 <sub>(보안)</sub> |
+| **세븐위키** | Developer-Friendly wiki service built w/ Modern Frameworks. | 2020- | 🏗️ | [***Dazzle.***](https://github.com/dazzleofficial) | [[Website]](https://seven.wiki) <br>Repo 비공개 <sub>(보안)</sub> |
 | **하나봇** | 하나인들을 위한 (간단) 카카오톡 챗봇 | 2021- | ✅ | 개인작 | 비공개 <sub>(공개 예정 없음)</sub> |
 | **도레미 디스코드 챗봇** | NLP를 곁들인 다목적 디스코드 챗봇, built w/ [Hikari](https://github.com/hikari-py/hikari) Framework | 2021- | 🏗️ | 개인작 | _TODO_ |
 | **나무위키 미러** | 나무위키 읽기전용 미러 서비스 | 2021- | ✅ | 개인작 | URL, Repo 비공개 <sub>(For legal reasons)</sub> |
