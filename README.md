@@ -29,10 +29,12 @@
 | **하나봇** | 하나인들을 위한 (간단) 카카오톡 챗봇 | 2021- | ✅ | 개인작 | 비공개 <sub>(공개 예정 없음)</sub> |
 | **도레미 디스코드 챗봇** | NLP를 곁들인 다목적 디스코드 챗봇, built w/ [Hikari](https://github.com/hikari-py/hikari) Framework | 2021- | 🏗️ | 개인작 | _TODO_ |
 | **나무위키 미러** | 나무위키 읽기전용 미러 서비스 | 2021- | ✅ | 개인작 | URL, Repo 비공개 <sub>(For legal reasons)</sub> |
+| **BlueArchive_Tools** | Scripts for reverse engineering the mobile game *Blue Archive*. | 2021- | 🏗️ | 개인작 | 업로드 예정 |
+| **arca.blue** | 블루 아카이브 캐릭터 DB 사이트 | 2021- | 🏗️ | 개인작 | Repo 비공개 <sub>(개발중)</sub> |
 | **PARTY** | The New Social: 한국형 카카오톡 대체 메신저 | 2022- | 🏗️ | 개인작 | Repo 비공개 <sub>(개발중)</sub> |
 |  | ***Work in Progress*** |   |  | |
 
-<sup>대부분의 프로젝트는 사설 Git 서버에서 작업한 후, Github로 옮겨오는 방식을 사용하고 있습니다.</sup>
+<sup>이 외에도 상당량의 Vaporware와 프로젝트들이 있으나, 대부분의 프로젝트는 사설 Git 서버에서 작업한 후에 Github로 옮겨오는 방식을 사용하고 있어 여기에서 보실 수는 없습니다.</sup>
 
 **전체 포트폴리오는 [krrrr.dev](https://krrrr.dev/) 에서 둘러보실 수 있습니다.**
 
