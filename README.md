@@ -30,6 +30,7 @@
 | **하나봇** | 하나인들을 위한 (간단) 카카오톡 챗봇 | 2021- | ✅ | 개인작 | 비공개 <sub>(공개 예정 없음)</sub> |
 | **도레미 디스코드 챗봇** | NLP를 곁들인 다목적 디스코드 챗봇, built w/ [Hikari](https://github.com/hikari-py/hikari) Framework | 2021- | 🏗️ | 개인작 | _업로드 예정_ |
 | **나무위키 미러** | 나무위키 읽기전용 미러 서비스 | 2021- | ✅ | 개인작 | 비공개 <sub>(For Legal Reasons)</sub> |
+| **하나위키** | 하나고의 학술적 위키 사이트인 하나위키의 기술과 운영을 맡고 있습니다. | 2022- | 🏗️ | 교내 팀플 | [[Website]](https://hanawiki.org) |
 | **BlueArchive_Tools** | Scripts for reverse engineering the mobile game *Blue Archive*. | 2021- | 🏗️ | 개인작 | _업로드 예정_ |
 | **arca.blue** | 블루 아카이브 캐릭터 DB 사이트 | 2021- | 🏗️ | 개인작 | Repo 비공개 <sub>(개발중)</sub> |
 | **PARTY** | The New Social: 한국형 카카오톡 대체 메신저 | 2022- | 🏗️ | 개인작 | Repo 비공개 <sub>(개발중)</sub> |
