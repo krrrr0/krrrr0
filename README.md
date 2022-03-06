@@ -19,12 +19,17 @@
 - ⌨️ Prefers ⇥ over ⎵  <sub>*(Use IDE!)*</sub>
 
 
-#### ❤️‍🔥 Favorite Stack
+### ❤️‍🔥 Favorite Stack
 ![FastAPI](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-3fa037?style=for-the-badge&logo=mongodb&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=white) ![Debian](https://img.shields.io/badge/debian-c70036?style=for-the-badge&logo=debian&logoColor=white)
 
 ### 🔭 Projects
 
-<!--> Currently WIP-->
+<!-- > Currently WIP-->
+```
+✅ = Currently in Service
+⏹️ = Project finished, but deprecated.
+🏗️ = Working on
+```
   
 | Name      | Description   |  Developer(s)   |
 |:----------|:--------------|:----------------|
@@ -41,7 +46,7 @@
 |:----------|:--------------|:----------------|
 | ⏹️ **도레미 디스코드 챗봇** (2021) | NLP를 곁들인 다목적 디스코드 챗봇, built w/ [Hikari](https://github.com/hikari-py/hikari) Framework | Me |
 | ✅ **BlueArchive_Tools** (2021-2022) | Scripts for reverse engineering the mobile game *Blue Archive*. | Me |
-| ✅ **BOJ 온라인 저지 클론** (2021) | (Unsafe) Baekjoon Online Judge clone. Supports C/C++/Python.<br>[[Backend]](https://github.com/krrrr0/lambda-ps-api) [[Frontend]](https://github.com/krrrr0/lambda-ps-fe) | Me |
+| ✅ **Baekjoon Online Judge Clone** (2021) | (Unsafe) BOJ clone. Supports C/C++/Python.<br>[[Backend]](https://github.com/krrrr0/lambda-ps-api) [[Frontend]](https://github.com/krrrr0/lambda-ps-fe) | Me |
 
 <sup>And many, many other small private projects.</sup>
 <br>
