@@ -37,7 +37,7 @@
 | 🏗️ **sevenwiki.** (2020-) | Developer-friendly wiki service built w/ modern frameworks.<br>[[Website]](https://seven.wiki) | [**@dazzleofficial**](https://github.com/dazzleofficial) |
 | ✅ **hanabot** (2021-) | Simple Kakaotalk Chatbot built for HAS. | Me |
 | ✅ **namuwiki mirror** (2021-) | Namumark parser / Read-only mirror service | Me |
-| 🏗️ **PARTY** (2022-) | The New Social: 한국형 카카오톡 대체 메신저 | Me | 
+<!--| 🏗️ **PARTY** (2022-) | The New Social: 한국형 카카오톡 대체 메신저 | Me | -->
 <!--|  | ***Work in Progress*** |   | -->
 
 #### 🎸 Side Projects
