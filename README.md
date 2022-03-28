@@ -26,15 +26,14 @@
 
 <!-- > Currently WIP-->
 ```
-✅ = Currently in Service
-⏹️ = Project finished, but deprecated.
+✅ = Finished
 🏗️ = Working on
 ```
   
 | Name      | Description   |  Developer(s)   |
 |:----------|:--------------|:----------------|
 | ✅ **mealworm5** (2018-)  | Dialogflow powered Facebook chatbot, serving meal info for schools in Korea. <br>1k+ DAU [[Repo]](https://github.com/dazzleofficial/mealworm5) [[Messenger]](https://m.me/mealworm05) [[Facebook]](https://facebook.com/mealworm05) | Me |
-| ⏹️ **ASKY** (2019) | Virtual girlfriend (KO) built with LUIS.ai<br>[[Backend]](https://github.com/krrrr0/ASKY-Python) [[Client]](https://github.com/cliid/ASKY-Unity) | w/ [@cliid](https://github.com/cliid) and 2 others |
+| ✅ **ASKY** (2019) | Virtual girlfriend (KO) built with LUIS.ai<br>[[Backend]](https://github.com/krrrr0/ASKY-Python) [[Client]](https://github.com/cliid/ASKY-Unity) | w/ [@cliid](https://github.com/cliid) and 2 others |
 | 🏗️ **sevenwiki.** (2020-) | Developer-friendly wiki service built w/ modern frameworks.<br>[[Website]](https://seven.wiki) | [**@dazzleofficial**](https://github.com/dazzleofficial) |
 | ✅ **hanabot** (2021-) | Simple Kakaotalk Chatbot built for HAS. | Me |
 | ✅ **namuwiki mirror** (2021-) | Namumark parser / Read-only mirror service | Me |
@@ -44,7 +43,7 @@
 #### 🎸 Side Projects
 | Name      | Description   |  Developer(s)   |
 |:----------|:--------------|:----------------|
-| ⏹️ **도레미 디스코드 챗봇** (2021) | NLP를 곁들인 다목적 디스코드 챗봇, built w/ [Hikari](https://github.com/hikari-py/hikari) Framework | Me |
+| ✅ **doremi-discord<sub>(도레미 디코봇)</sub>** (2021) | Multipurpose Discord bot built w/ [Hikari](https://github.com/hikari-py/hikari) Framework | Me |
 | ✅ **BlueArchive_Tools** (2021-2022) | Scripts for reverse engineering the mobile game *Blue Archive*. | Me |
 | ✅ **Baekjoon Online Judge Clone** (2021) | (Unsafe) BOJ clone. Supports C/C++/Python.<br>[[Backend]](https://github.com/krrrr0/lambda-ps-api) [[Frontend]](https://github.com/krrrr0/lambda-ps-fe) | Me |
 
