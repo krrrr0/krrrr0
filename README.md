@@ -43,7 +43,7 @@
 #### 🎸 Side Projects
 | Name      | Description   |  Developer(s)   |
 |:----------|:--------------|:----------------|
-| ✅ **도레미 디스코드 챗봇** (2021) | Multipurpose Discord bot built w/ [Hikari](https://github.com/hikari-py/hikari) Framework | Me |
+| ✅ **도레미 디스코드 챗봇** (2021) | Multipurpose Discord bot built w/ [Hikari](https://github.com/hikari-py/hikari) Framework. Supports message conversation and slash commands. | Me |
 | ✅ **BlueArchive_Tools** (2021-2022) | Scripts for reverse engineering the mobile game *Blue Archive*. | Me |
 | ✅ **Baekjoon Online Judge Clone** (2021) | (Unsafe) BOJ clone. Supports C/C++/Python.<br>[[Backend]](https://github.com/krrrr0/lambda-ps-api) [[Frontend]](https://github.com/krrrr0/lambda-ps-fe) | Me |
 
