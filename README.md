@@ -35,7 +35,7 @@
 | ✅ **mealworm5** (2018-)  | Dialogflow powered Facebook chatbot, serving meal info for schools in Korea. <br>1k+ DAU [[Repo]](https://github.com/dazzleofficial/mealworm5) [[Messenger]](https://m.me/mealworm05) [[Facebook]](https://facebook.com/mealworm05) | Me |
 | ✅ **ASKY** (2019) | Virtual girlfriend (KO) built with LUIS.ai<br>[[Backend]](https://github.com/krrrr0/ASKY-Python) [[Client]](https://github.com/cliid/ASKY-Unity) | w/ [@cliid](https://github.com/cliid) and 2 others |
 | 🏗️ **sevenwiki.** (2020-) | Developer-friendly wiki service built w/ modern frameworks.<br>[[Website]](https://seven.wiki) | [**@dazzleofficial**](https://github.com/dazzleofficial) |
-| ✅ **hanabot** (2021-) | Simple Kakaotalk Chatbot built for HAS. | Me |
+| ✅ **hanabot** (2021-) | Simple Kakaotalk Chatbot built for HAS. 인트라넷 리버스 엔지니어링을 통해 일부 인트라넷 기능을 지원합니다. | Me |
 | ✅ **namuwiki mirror** (2021-) | Namumark parser / Read-only mirror service | Me |
 <!--| 🏗️ **PARTY** (2022-) | The New Social: 한국형 카카오톡 대체 메신저 | Me | -->
 <!--|  | ***Work in Progress*** |   | -->
