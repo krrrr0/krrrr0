@@ -4,7 +4,7 @@
 - ✨ **Co-Founder of ***Dazzle.*** ➡️ [[Github]](https://github.com/dazzleofficial) | [[Website]](https://dazzle.works)**
 - 🚩 Hanyang University GEC 2019
 - 🧑‍🎓 KAIST GEC 2017, 2018
-- 🏫 Seoul Seobu GEC 수학 (2016), 정보 (2017)
+- 🏫 Seoul Seobu GEC 수학 (2016), 정보 (2018)
 
 #### 🏗️ What I Do
 - 🔥 Backend Development using Python & Go
