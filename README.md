@@ -53,7 +53,7 @@
   
 ### 📮 Contacts
 - 📫 Email: <hi(at)krrrr.dev>
-- 🦜 Twitter DM [@krrrr0](https://twitter.com/krrrr0/)
+- Discord `krrrr#1927`
 <!--
 **krrrr0/krrrr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
