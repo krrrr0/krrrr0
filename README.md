@@ -39,6 +39,9 @@
 | ✅ **hanabot** (2021-) | Simple Kakaotalk Chatbot built for HAS.<br>인트라넷 리버스 엔지니어링을 통해 일부 인트라넷 기능을 지원합니다. | Me |
 | ✅ **namuwiki mirror** (2021-) | Namumark parser / Read-only mirror service | Me |
 | ✅ **어셈블리 그래프 게임** (2022) | Simple Bustabit clone built w/ Python & Electron<br>[[Client]](https://github.com/krrrr0/assembly-graph-client) [[Server]](https://github.com/krrrr0/assembly-graph-server)<br><img src="https://user-images.githubusercontent.com/72681176/192980121-31709589-6ddb-4d4e-bf04-328c715cb56b.png" height="150"> | Me |
+| ✅ **한옥마을 지역연계 프로젝트** (2022) | Project showcase website for local research. Built with Three.js + Nuxt [[Website]](https://hanokhana.com)<br><img src="https://user-images.githubusercontent.com/72681176/210471447-ad299f71-fcbb-4cba-87b7-e605eac53f79.png" height="150"> | HANA ACADEMY SEOUL |
+
+
 <!--| 🏗️ **PARTY** (2022-) | The New Social: 한국형 카카오톡 대체 메신저 | Me | -->
 <!--|  | ***Work in Progress*** |   | -->
 
