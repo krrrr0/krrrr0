@@ -2,9 +2,7 @@
 #### 🍰 Who I Am
 - 🎒 **[Hana Academy Seoul](https://www.hana.hs.kr/main.do) 12th**
 - ✨ **Co-Founder of ***Dazzle.*** ➡️ [[Github]](https://github.com/dazzleofficial) | [[Website]](https://dazzle.works)**
-- 🚩 Hanyang University GEC 2019
-- 🧑‍🎓 KAIST GEC 2017, 2018
-- 🏫 Seoul Seobu GEC 수학 (2016), 정보 (2018)
+- 🚩 HYU GEC 2019
 
 #### 🏗️ What I Do
 - 🔥 Backend Development using Python & Go
