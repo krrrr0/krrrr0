@@ -1,4 +1,4 @@
-### 🙃 만나서 반가워요 o/
+### 🙃 안녕하세요! 만나서 반가워요 o/
 #### 🍰 Who I Am
 - 🎒 **[Hana Academy Seoul](https://www.hana.hs.kr/main.do) 12th**
 - ✨ **Co-Founder of ***Dazzle.*** ➡️ [[Github]](https://github.com/dazzleofficial) | [[Website]](https://dazzle.works)**
