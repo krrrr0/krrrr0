@@ -19,6 +19,9 @@
 ### ❤️‍🔥 Favorite Stack
 ![FastAPI](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-3fa037?style=for-the-badge&logo=mongodb&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=white) ![Debian](https://img.shields.io/badge/debian-c70036?style=for-the-badge&logo=debian&logoColor=white)
 
+### 📮 Reach me via:
+- 📫 Email: <hi(at)krrrr.dev>
+
 ### 🔭 Projects
 
 <!-- > Currently WIP-->
@@ -52,8 +55,7 @@
 <sup>And many, many other small private projects.</sup>
 <br>
   
-### 📮 Reach me via:
-- 📫 Email: <hi(at)krrrr.dev>
+
 <!--
 **krrrr0/krrrr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
