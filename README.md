@@ -3,7 +3,7 @@
 🌏 [Website](https://serve.moe)  
 📮 <me(at)serve.moe>  
   
-Hi, Nice to meet you!
+Hi, nice to meet you!
   
 
 #### 🏗️ What I Do
