@@ -3,9 +3,8 @@
 🌏 [Website](https://serve.moe)  
 📮 <me(at)serve.moe>  
   
-My name is **Jeongyeon Park**.  
-Nice to see you!
-
+Hi, Nice to meet you!
+  
 
 #### 🏗️ What I Do
   
