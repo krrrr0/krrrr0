@@ -1,8 +1,5 @@
 ### 🙃 안녕하세요! 만나서 반가워요 o/
   
-🌏 [Website](https://krrrr.dev/)  
-📮 <hi(at)krrrr.dev>  
-  
 Hi, nice to meet you!
   
 
