@@ -1,11 +1,5 @@
-### 🙃 안녕하세요! 만나서 반가워요 o/
-  
-Hi, nice to meet you!
-  
-**I build software & more.**  
 
-#### 🎒 Education
-- [Hana Academy Seoul](https://www.hana.hs.kr/main.do)
+### 🏗️ I build software & more.
 
 <!--
 **krrrr0/krrrr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
